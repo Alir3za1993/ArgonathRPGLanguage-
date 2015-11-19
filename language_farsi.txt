@@ -1,0 +1,62 @@
+LOGIN_WELCM1 - Shoma ba movafaghiat vared shodid, {Player Name}
+LOGIN_WELCM2 - Be Argonath RPG RS5 khosh amadid!
+LOGIN_MFERR1 - Service e "multi-factor verification" dar halate offline ast lotfan ba'dan dobare emtahan namayid.
+LOGIN_MFERR2 - Error: Code eshtebah ast!
+LOGIN_MF1    - Shoma service e "multi-factor authentication" ra baraye account e khod fa'al nemoodid .\n\n Lotfan hamangoone ke dar "Google Authenticator app" mibinid code ra vared namayid:
+LOGIN_PASSER1- Error: Passwordha ba ham hamkhaani nadarand! Tavajjoh: Passwordha be bozorgi va kochikie horoof hassas mibashand!
+LOGIN_PASSER2- Error: Password e vared shode eshtebah ast!
+LOGIN_PASS2  - Lotfan password e khod ra dobare vared namayid.
+LOGIN_QUIT   - Aya shoma motmaen mibashid ke mikhahid az server kharej shavid?
+LOGIN_ADULT  - Hoshdaar: In server momken ast havie sahnehayi bashad ke baraye koodakan monaseb nabashad(+18)!
+LOGIN_BYE1   - Shoma az server kharej shodid.
+ERROR_NOTLOG - Error: Shoma hanooz vared nashodid.
+ERROR_KICK   - Error: Shoma dar hale hazer nemitavanid az in command estefade konid.
+ECON_RELOAD  - [KHATAR] Ettela'ate mali dar hale reload shodan mibashad, baraye chand lahze hich amaliate maaliyi dar dastres nemibashad.
+TXT_Login0   - Be Argonath RPG khosh amadid.
+TXT_Login1   - Donyaaye khodsakhte!
+CMD_TIME     - Sa'ate rasmie donyaye vagheyi {Time} (CET - Be vaghte oroopaye markazi).
+CMD_TD       - Sa'at {time} be vaghte rasmie server mibashad (CET - Central European Time), tarikh e emrooz {date} mibashad.
+CMD_DATE     - Tarikh e emrooz {date} mibashad.
+MONTH_1      - January
+MONTH_2      - February
+MONTH_3      - March
+MONTH_4      - April
+MONTH_5      - May
+MONTH_6      - June
+MONTH_7      - July
+MONTH_8      - August
+MONTH_9      - September
+MONTH_10     - October
+MONTH_11     - November
+MONTH_12     - December
+
+// Other
+RES_COMBAT   - Shoma nemitavanid in kar ra dar hale mobareze anjaam dahid.
+RES_NODONE	 - Error: In tarh dar hale hazer be dalile bug gheyr e fa'al shode ast.
+
+// Economy
+ECON_ATM_TY  - Baraye estefade az gooyandeye khodkare Bank e Argonath RPG az shoma moteshakkerim!"
+ECON_ATM_NC  - Error: Shoma nazdike dastgaah e khodpardaaz(ATM) nistid.
+ECON_ATM_CIV - Shoma hesaabe banki nadarid ke azin dastgah estefade konid. Shoma avval bayad shahrvand e ghanooni bashid.
+ECON_ATM_LIM - Error: Shoma nemitavanid mablaghi bishtar az $100,00 az ATM bardasht konid. Lotfan be bank moraje'e namayid.
+ECON_ATM_POS - Error: Shoma faghat mitavanid maghadir e mosbat az hesab bardasht namayid.
+ECON_ATM_1m  - Error: Shoma bayad yek daghighe sabr konid ta betavanid dobare az ATM bardasht namayid.
+ECON_BNK_N10 - Error: Nemitavanad bishtar az 10 character bashad.
+ECON_BNK_DBT - Bank: Ba arze poozesh, be dalile bedehi tamaami e hesabhaye shoma masdood mibashad.
+ECON_BNK_ACC - Oon account vojood nadarad va ya shoma be aan dastresi nadarid!
+ECON_BNK_FKT - Yek moshkeli ba account e source pishamade ast.
+ECON_BNK_LRG - Error: In meghdar besiar ziad ast!
+ECON_BNK_MIN - Error: Kamtarin meghdar $1 mibashad.
+ECON_BNK_FUN - Error: Shoma poole kafi baraye varize aan be hesaab nadarid.
+ECON_BNK_WNSF- Shoma poole kafi baraye anjame in amaliat nadarid.
+ECON_BNK_TY  - Az moraje'eye shoma be bank e Argonath RPG moteshakerim.
+ECON_BNK_REJ - Tarakonesh rad shod, mablaghe darkhasti enteghal nayaft.
+ECON_BNK_PART- Sharik e shoma bayad dar bank hozoor dashte bashad!
+ECON_BNK_PSLF- Shoma nemitavanid ba khodetaan hesaab e moshtarak besazid!
+ECON_BNK_PNO - Shoma entekhab kardid ke hesaabe banki nasazid.
+ECON_BNK_PPNO- Your partner has declined your request to open an account.
+ECON_BNK_LOAD- Error: Hesaabhaye shoma dar hale pardazesh mibashad, lotfan sabr konid...
+ECON_BNK_BNK - Error: Shoma bayad dar bank bashid.
+ECON_BNK_CIV - Error: Bank ejazeye sakhte hesaabe banki be mohajerin nemidahad. Baraye sakhte hesaabe banki be Passport ehtiaj darid.
+ECON_BNK_CRI - Error: Be dalil e bohraan e maali, bank tatil mibashad.
+ECON_BNK_GRP - Error: Baraye variz va ya bardasht az hesaabe banke gorooh lotfan az /groupbank estefade namayid.
